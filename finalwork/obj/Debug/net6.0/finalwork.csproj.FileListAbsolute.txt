@@ -1,0 +1,15 @@
+C:\Users\svbur\OneDrive\Рабочий стол\C#\finalwork\bin\Debug\net6.0\finalwork.exe
+C:\Users\svbur\OneDrive\Рабочий стол\C#\finalwork\bin\Debug\net6.0\finalwork.deps.json
+C:\Users\svbur\OneDrive\Рабочий стол\C#\finalwork\bin\Debug\net6.0\finalwork.runtimeconfig.json
+C:\Users\svbur\OneDrive\Рабочий стол\C#\finalwork\bin\Debug\net6.0\finalwork.dll
+C:\Users\svbur\OneDrive\Рабочий стол\C#\finalwork\bin\Debug\net6.0\finalwork.pdb
+C:\Users\svbur\OneDrive\Рабочий стол\C#\finalwork\obj\Debug\net6.0\finalwork.csproj.AssemblyReference.cache
+C:\Users\svbur\OneDrive\Рабочий стол\C#\finalwork\obj\Debug\net6.0\finalwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svbur\OneDrive\Рабочий стол\C#\finalwork\obj\Debug\net6.0\finalwork.AssemblyInfoInputs.cache
+C:\Users\svbur\OneDrive\Рабочий стол\C#\finalwork\obj\Debug\net6.0\finalwork.AssemblyInfo.cs
+C:\Users\svbur\OneDrive\Рабочий стол\C#\finalwork\obj\Debug\net6.0\finalwork.csproj.CoreCompileInputs.cache
+C:\Users\svbur\OneDrive\Рабочий стол\C#\finalwork\obj\Debug\net6.0\finalwork.dll
+C:\Users\svbur\OneDrive\Рабочий стол\C#\finalwork\obj\Debug\net6.0\refint\finalwork.dll
+C:\Users\svbur\OneDrive\Рабочий стол\C#\finalwork\obj\Debug\net6.0\finalwork.pdb
+C:\Users\svbur\OneDrive\Рабочий стол\C#\finalwork\obj\Debug\net6.0\finalwork.genruntimeconfig.cache
+C:\Users\svbur\OneDrive\Рабочий стол\C#\finalwork\obj\Debug\net6.0\ref\finalwork.dll
